@@ -1,6 +1,4 @@
-# CV
-
-## Kobylan Gaziz
+# Kobylan Gaziz
 
 ### Contact information
 
