@@ -1,1 +1,1 @@
-https://github.com/Kobylan/rsschool-cv.git
+https://kobylan.github.io/rsschool-cv/cv
